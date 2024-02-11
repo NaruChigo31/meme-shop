@@ -196,3 +196,15 @@ footer{
     height: fit-content;
 
 }
+
+.contact_info_text{
+    align-items: center;
+    gap: 15px;
+    color: #fff;
+}
+
+.conatact_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
